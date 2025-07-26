@@ -32,6 +32,7 @@ I'll be uploading:
 - 🌐 Portfolio (Coming Soon...)
 
 > *"Code, Learn, Build, Repeat – that's the mantra!"* 🔥
-Author - ved prakash (Gaurav singh)
 <br>
-one day dreams become true 
+    Author - ved prakash (Gaurav singh)
+<br>
+    one day dreams become true 
