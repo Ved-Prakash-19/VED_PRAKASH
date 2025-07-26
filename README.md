@@ -33,6 +33,6 @@ I'll be uploading:
 
 > *"Code, Learn, Build, Repeat – that's the mantra!"* 🔥
 <br>
-    Author - ved prakash (Gaurav singh)
+'📝✍️ Author - ved prakash (Gaurav singh)
 <br>
-    one day dreams become true 
+✨🎯one day dreams become true👑
