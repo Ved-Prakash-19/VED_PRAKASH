@@ -27,8 +27,8 @@ I'll be uploading:
 
 ## 🔗 Let's Connect
 
-- 💼 [LinkedIn](www.linkedin.com/in/ved-prakash-bb2097339)
-- 📧 [Email](vedprakash811315@gmail.com)
+- 💼 [LinkedIn](www.linkedin.com/in/ved-prakash-bb2097339) - VED PRAKASH
+- 📧 [Email](vedprakash811315@gmail.com) - vedprakash811315@gmail.com
 - 🌐 Portfolio (Coming Soon...)
 
 > *"Code, Learn, Build, Repeat – that's the mantra!"* 🔥
