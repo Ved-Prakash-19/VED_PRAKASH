@@ -1,4 +1,4 @@
-# ved_firstgitrepo
+# Ved_FirstGitRepo
 This is my first Git repository for learning purpose.
 <br>
 # 🙏 Ram Ram! I'm VED PRAKASH
@@ -24,7 +24,7 @@ This is my first Git repository for learning purpose.
 I'll be uploading:
 - 🔸 DSA solutions using C++
 - 🔸 Beginner to advanced web projects
-
+- 🔸 Portfolio
 ## 🔗 Let's Connect
 
 - 💼 [LinkedIn](www.linkedin.com/in/ved-prakash-bb2097339) - VED PRAKASH
